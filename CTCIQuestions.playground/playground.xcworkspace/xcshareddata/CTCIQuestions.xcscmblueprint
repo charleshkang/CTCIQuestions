@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "699883D8A4393719B877F8F8B792A258E00F8276",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "699883D8A4393719B877F8F8B792A258E00F8276" : 0,
+    "023C046D7BC226924BBAD83456E847BF59264631" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "91E0B972-5BE2-413C-AC9D-9D7C6B411623",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "699883D8A4393719B877F8F8B792A258E00F8276" : "CTCIQuestions\/",
+    "023C046D7BC226924BBAD83456E847BF59264631" : ".."
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "CTCIQuestions",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "CTCIQuestions.playground",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/charleshkang\/unit-2-final-project-.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "023C046D7BC226924BBAD83456E847BF59264631"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/charleshkang\/CTCIQuestions.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "699883D8A4393719B877F8F8B792A258E00F8276"
+    }
+  ]
+}
